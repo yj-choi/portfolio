@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gallery title="Site works" thumbDir="./images/thumbs/" imageDir="./images/" random="false">
+	<image>
+		<title>site23</title>
+		<desc>> FUNNYSOFT.CO.KR</desc>
+		<thumb>site23.jpg</thumb>
+		<link>http://www.funnysoft.co.kr/</link>
+	</image>
+	<image>
+		<title>site19</title>
+		<desc>> SEVERANCE2007.CO.KR</desc>
+		<thumb>site19.jpg</thumb>
+		<link>http://www.severance2007.co.kr/</link>
+	</image>
+	<image>
+		<title>site18</title>
+		<desc>> DMTINC.CO.KR</desc>
+		<thumb>site18.jpg</thumb>
+		<link>http://www.dmtinc.co.kr/</link>
+	</image>
+	<image>
+		<title>site17</title>
+		<desc>> SPACEADVENTURE.CN (EN/CH)</desc>
+		<thumb>site17.jpg</thumb>
+		<link>http://www.spaceadventure.cn/</link>
+	</image>
+	<image>
+		<title>site16</title>
+		<desc>> ANIDONG.COM ( KO/EN/CH )</desc>
+		<thumb>site16.jpg</thumb>
+		<link>http://www.anidong.com/</link>
+	</image>
+	<image>
+		<title>site15</title>
+		<desc>> AFRICA.ANIDONG.COM (KO/EN)</desc>
+		<thumb>site15.jpg</thumb>
+		<link>http://africa.anidong.com/</link>
+	</image>
+	<image>
+		<title>site14</title>
+		<desc>> ANYTOYS.ANIDONG.COM</desc>
+		<thumb>site14.jpg</thumb>
+		<link>http://anytoys.anidong.com/</link>
+	</image>
+	<image>
+		<title>site13</title>
+		<desc>> CD TITLE ( KO/EN/JP )</desc>
+		<thumb>site13.jpg</thumb>
+		<link></link>
+	</image>
+	<image>
+		<title>site12</title>
+		<desc>> ESPIRITU-ONLINE.COM</desc>
+		<thumb>site12.jpg</thumb>
+		<link>http://www.espiritu-online.com/</link>
+	</image>
+	<image>
+		<title>site11</title>
+		<desc>> ADMIN.CJBIZMALL.COM</desc>
+		<thumb>site11.jpg</thumb>
+		<link>http://admin.cjbizmall.com/</link>
+	</image>
+	<image>
+		<title>site10</title>
+		<desc>> KOREACRYO.COM</desc>
+		<thumb>site10.jpg</thumb>
+		<link>http://www.koreacryo.com/</link>
+	</image>
+	<image>
+		<title>site9</title>
+		<desc>> DBBS.CO.KR</desc>
+		<thumb>site9.jpg</thumb>
+		<link>http://www.dbbs.co.kr/</link>
+	</image>
+	<image>
+		<title>site8</title>
+		<desc>> DASOMDEMO.CO.KR</desc>
+		<thumb>site8.jpg</thumb>
+		<link>http://www.dasomdemo.co.kr/</link>
+	</image>
+	<image>
+		<title>site7</title>
+		<desc>> MSACA.CO.KR</desc>
+		<thumb>site7.jpg</thumb>
+		<link>http://www.msaca.co.kr/</link>
+	</image>
+	<image>
+		<title>site6</title>
+		<desc>> CNF-COS.COM</desc>
+		<thumb>site6.jpg</thumb>
+		<link>http://www.cnf-cos.com/</link>
+	</image>
+	<image>
+		<title>site5</title>
+		<desc>> SKIN-TODAY.COM</desc>
+		<thumb>site5.jpg</thumb>
+		<link>http://www.skin-today.com/</link>
+	</image>
+	<image>
+		<title>site4</title>
+		<desc>> TECH-ORBIT.COM</desc>
+		<thumb>site4.jpg</thumb>
+		<link>http://www.tech-orbit.com/</link>
+	</image>
+	<image>
+		<title>site3</title>
+		<desc>> CD TITLE</desc>
+		<thumb>site3.jpg</thumb>
+		<link></link>
+	</image>
+	<image>
+		<title>site2</title>
+		<desc>> YONGJINFC.COM</desc>
+		<thumb>site2.jpg</thumb>
+		<link>http://www.yongjinfc.com/</link>
+	</image>
+	<image>
+		<title>site1</title>
+		<desc>> DIGA.CO.KR/VR</desc>
+		<thumb>site1.jpg</thumb>
+		<link>http://www.diga.co.kr/vr/</link>
+	</image>
+	<image>
+		<title>site0</title>
+		<desc>> CD TITLE</desc>
+		<thumb>site0.jpg</thumb>
+		<link></link>
+	</image>
+</gallery>

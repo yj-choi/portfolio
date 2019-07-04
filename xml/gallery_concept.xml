@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gallery title="Concept Art" thumbDir="./images/thumbs/" imageDir="./images/" random="false">
+	<category name="> THE ORCS : COOK / PENCIL.">
+		<image>
+			<title>THE ORCS : COOK</title>
+			<desc>PENCIL</desc>
+			<thumb>ca_cook1.jpg</thumb>
+			<img>ca_cook1.jpg</img>
+		</image>
+	</category>
+	<category name="> THE MICHELLE / PHOTOSHOP.">
+		<image>
+			<title>THE MICHELLE</title>
+			<desc>PHOTOSHOP</desc>
+			<thumb>ca_michelle1.jpg</thumb>
+			<img>ca_michelle1.jpg</img>
+		</image>
+	</category>
+</gallery>

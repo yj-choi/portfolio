@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gallery title="Dev" thumbDir="./images/thumbs/" imageDir="./images/" random="false">
+	<category name="> TALKING DIBO / C# / UNITY3D / ANDROID / Google Play.">
+		<image>
+			<thumb>dev_td_1.jpg</thumb>
+			<link>https://play.google.com/store/apps/details?id=com.peppercon.TalkingDibo</link>
+		</image>
+		<image>			
+			<thumb>dev_td_2.jpg</thumb>
+			<link>https://play.google.com/store/apps/details?id=com.peppercon.TalkingDibo</link>
+		</image>
+		<image>
+			<thumb>dev_td_3.jpg</thumb>
+			<link>https://play.google.com/store/apps/details?id=com.peppercon.TalkingDibo</link>
+		</image>
+		<image>
+			<thumb>dev_td_4.jpg</thumb>
+			<link>https://play.google.com/store/apps/details?id=com.peppercon.TalkingDibo</link>
+		</image>
+	</category>
+	<category name="> PORORO WORD FINDERS / JQUERY / HTML5 / LG Smart TV.">
+		<image>			
+			<thumb>dev_pwf_1.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_pwf_2.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>
+			<thumb>dev_pwf_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_pwf_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>
+	<category name="> PORORO MUSIC TOUCH / JQUERY / HTML5 / LG Smart TV.">
+		<image>			
+			<thumb>dev_pmt_1.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_pmt_2.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_pmt_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_pmt_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>
+	<category name="> DIBO ENGLISH / AIR / PC / PNJ Global.">
+		<image>		
+			<thumb>dev_de_1.jpg</thumb>
+			<link></link>
+		</image>
+		<image>		
+			<thumb>dev_de_2.jpg</thumb>
+			<link></link>
+		</image>
+		<image>			
+			<thumb>dev_de_3.jpg</thumb>
+			<link></link>
+		</image>
+		<image>			
+			<thumb>dev_de_4.jpg</thumb>
+			<link></link>
+		</image>
+	</category>
+	<category name="> PORORO COOKIE CASTLE / AIR / ANDROID / KT.">
+		<image>			
+			<thumb>dev_pcc_1.jpg</thumb>
+			<link></link>
+		</image>
+		<image>			
+			<thumb>dev_pcc_2.jpg</thumb>
+			<link></link>
+		</image>
+		<image>			
+			<thumb>dev_pcc_3.jpg</thumb>
+			<link></link>
+		</image>
+		<image>			
+			<thumb>dev_pcc_4.jpg</thumb>
+			<link></link>
+		</image>
+	</category>
+	<category name="> BACKKOM AND THE POO STORY / AIR / iOS + ANDROID / RG Studios.">
+		<image>			
+			<thumb>dev_bps_1.jpg</thumb>
+			<link></link>
+		</image>
+		<image>			
+			<thumb>dev_bps_2.jpg</thumb>
+			<link></link>
+		</image>
+		<image>			
+			<thumb>dev_bps_3.jpg</thumb>
+			<link></link>
+		</image>
+		<image>			
+			<thumb>dev_bps_4.jpg</thumb>
+			<link></link>
+		</image>
+	</category>
+	
+	<category name="> PORORO MAGIC BOOK / AIR, AS / ANDROID, Smart TV / IFA2011, KES2011 / 1ST KOREA TV APP INNOVATION AWARDS GRAND PRIZE">
+		<image>		
+			<thumb>dev_pmb_1.jpg</thumb>
+			<link>http://apps.samsung.com/mercury/topApps/topAppsDetail.as?COUNTRY_CODE=KOR&&productId=000000526710</link>
+		</image>
+		<image>			
+			<thumb>dev_pmb_2.jpg</thumb>
+			<link>http://apps.samsung.com/mercury/topApps/topAppsDetail.as?COUNTRY_CODE=KOR&&productId=000000526710</link>
+		</image>
+		<image>			
+			<thumb>dev_pmb_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_pmb_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>
+
+	<category name="> DIBO POPUP BOOK / AIR, AS / LG Smart TV.">
+		<image>			
+			<thumb>dev_dpb_1.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_dpb_2.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_dpb_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_dpb_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>
+	
+	<category name="> COOKING TIME / ActionScript / SAMSUNG Smart TV.">
+		<image>			
+			<thumb>dev_ct_1.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114005&categoryID=0000008923&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_ct_2.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114005&categoryID=0000008923&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_ct_3.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114005&categoryID=0000008923&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_ct_4.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114005&categoryID=0000008923&sortType=date&pageNo=2</link>
+		</image>
+	</category>
+
+	<category name="> DIBO VOD / ActionScript / SAMSUNG Smart TV.">
+		<image>			
+			<thumb>dev_dv_1.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/video/view.do?productID=G00003812927&categoryID=0000008915&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_dv_2.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/video/view.do?productID=G00003812927&categoryID=0000008915&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_dv_3.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/video/view.do?productID=G00003812927&categoryID=0000008915&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_dv_4.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/video/view.do?productID=G00003812927&categoryID=0000008915&sortType=date&pageNo=2</link>
+		</image>
+	</category>
+
+	<category name="> DIVING STAR / ActionScript / SAMSUNG Smart TV.">
+		<image>			
+			<thumb>dev_ds_1.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001069578&categoryID=0000008925&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_ds_2.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001069578&categoryID=0000008925&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_ds_3.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001069578&categoryID=0000008925&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_ds_4.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001069578&categoryID=0000008925&sortType=date&pageNo=2</link>
+		</image>
+	</category>
+
+	<category name="> GIGGLY ENGLISH 1, 2, 3 / ActionScript / SAMSUNG Smart TV.">
+		<image>			
+			<thumb>dev_ge_1.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/education/view.do?productID=G00008996725&categoryID=0000008920&sortType=date&pageNo=1</link>
+		</image>
+		<image>			
+			<thumb>dev_ge_2.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/education/view.do?productID=G00008996725&categoryID=0000008920&sortType=date&pageNo=1</link>
+		</image>
+		<image>			
+			<thumb>dev_ge_3.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/education/view.do?productID=G00008997057&categoryID=0000008920&sortType=date&pageNo=1</link>
+		</image>
+		<image>			
+			<thumb>dev_ge_4.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/education/view.do?productID=G00008997060&categoryID=0000008920&sortType=date&pageNo=1</link>
+		</image>
+	</category>
+
+	<category name="> SPACE ADVENTURE / ActionScript / SAMSUNG Smart TV.">
+		<image>			
+			<thumb>dev_sa_1.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114027&categoryID=0000008921&sortType=date&pageNo=3</link>
+		</image>
+		<image>			
+			<thumb>dev_sa_2.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114027&categoryID=0000008921&sortType=date&pageNo=3</link>
+		</image>
+		<image>			
+			<thumb>dev_sa_3.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114027&categoryID=0000008921&sortType=date&pageNo=3</link>
+		</image>
+		<image>			
+			<thumb>dev_sa_4.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114027&categoryID=0000008921&sortType=date&pageNo=3</link>
+		</image>
+	</category>
+
+	<category name="> DIBO STORY BOOK 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ,11, 12, 13 / ActionScript / SAMSUNG Smart TV.">
+		<image>			
+			<thumb>dev_dsb_1.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/education/view.do?productID=G00004234281&categoryID=0000008920&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_dsb_2.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/education/view.do?productID=G00004234281&categoryID=0000008920&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_dsb_3.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/education/view.do?productID=G00004234281&categoryID=0000008920&sortType=date&pageNo=2</link>
+		</image>
+		<image>			
+			<thumb>dev_dsb_4.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/education/view.do?productID=G00004234339&categoryID=0000008920&sortType=date&pageNo=1</link>
+		</image>
+	</category>
+
+	<category name="> TOY CAR RACING / ActionScript / SAMSUNG Smart TV.">
+		<image>			
+			<thumb>dev_tcr_1.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114021&categoryID=0000008921&sortType=date&pageNo=3</link>
+		</image>
+		<image>			
+			<thumb>dev_tcr_2.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114021&categoryID=0000008921&sortType=date&pageNo=3</link>
+		</image>
+		<image>			
+			<thumb>dev_tcr_3.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114021&categoryID=0000008921&sortType=date&pageNo=3</link>
+		</image>
+		<image>			
+			<thumb>dev_tcr_4.jpg</thumb>
+			<link>http://tvapps.samsung.com/kr/widget/game/view.do?productID=G00001114021&categoryID=0000008921&sortType=date&pageNo=3</link>
+		</image>
+	</category>
+
+	<category name="> DIBO LAUGHTER HOUSE 1, 2, 3, 4 / ActionScript / LG Smart TV.">
+		<image>			
+			<thumb>dev_dlh_1.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_dlh_2.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_dlh_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_dlh_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>
+
+	<category name="> GUESS WHO / ActionScript / LG Smart TV.">
+		<image>			
+			<thumb>dev_gw_1.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_gw_2.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_gw_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_gw_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>
+
+	<category name="> ROBOT BUILDER / ActionScript / LG Smart TV.">
+		<image>			
+			<thumb>dev_rb_1.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_rb_2.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_rb_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_rb_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>
+
+	<category name="> SING ALONG WITH DIBO / ActionScript / LG Smart TV.">
+		<image>			
+			<thumb>dev_swd_1.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_swd_2.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_swd_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_swd_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>
+
+	<category name="> AMAZING ADVENTURE / ActionScript / LG Smart TV / 2011 CES SHOW.">
+		<image>			
+			<thumb>dev_aaa_1.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_aaa_2.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_aaa_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_aaa_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>	
+	<category name="> BOOKWORM ADVENTURE / ActionScript / LG Smart TV / 2011 CES SHOW.">
+		<image>			
+			<thumb>dev_bwa_1.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_bwa_2.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>		
+			<thumb>dev_bwa_3.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+		<image>			
+			<thumb>dev_bwa_4.jpg</thumb>
+			<link>http://www.lgappstv.com/</link>
+		</image>
+	</category>
+	
+</gallery>

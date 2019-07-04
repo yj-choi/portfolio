@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<item id="1" value="menu1">
+		<txt>DEV</txt>
+		<link>gallery_dev.swf</link>
+	</item>
+	<item id="2" value="menu2">
+		<txt>CONCEPT</txt> 
+		<link>gallery_concept.swf</link>
+	</item>
+	<item id="3" value="menu3">
+		<txt>3D</txt> 
+		<link>gallery_3d.swf</link>
+	</item>
+	<item id="4" value="menu4">
+		<txt>WEB</txt>
+		<link>gallery_web.swf</link>
+		<!--<link>http://blog.naver.com/PostList.nhn?blogId=0223storm&categoryNo=17</link>-->
+	</item>
+	<item id="5" value="menu5">
+		<txt>BOARD</txt> 
+		<link>http://dinendal.maru.net/bbs/zboard.php?id=board</link>
+	</item>
+	<item id="6" value="menu6">
+		<txt>BLOG</txt> 
+		<link>http://blog.naver.com/0223storm/</link>
+	</item>
+	<item id="7" value="song_title">
+		<txt>SEASONS OF WAR / WOW</txt>
+		<link>bgm/SeasonsOfWar.mp3</link>
+	</item>
+	<item id="8" value="copyright">
+		<txt>(C) CYJ / VER 3.0.</txt>
+		<link></link>
+	</item>
+</list>

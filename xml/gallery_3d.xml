@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gallery title="3D" thumbDir="./images/thumbs/" imageDir="./images/" random="false">
+	<category name="> THE ORCS : HUNTER / 3DSMAX / NURMS POLY / DEFAULT SCANLINE RENDERER.">
+		<image>
+			<title>THE ORCS : HUNTER</title>
+			<desc>Side view</desc>
+			<thumb>hunter0.jpg</thumb>
+			<img>hunter0.jpg</img>
+		</image>
+		<image>
+			<title>THE ORCS : HUNTER</title>
+			<desc>Front view</desc>
+			<thumb>hunter1.jpg</thumb>
+			<img>hunter1.jpg</img>
+		</image>
+		<image>
+			<title>THE ORCS : HUNTER</title>
+			<desc>Head</desc>
+			<thumb>hunter2.jpg</thumb>
+			<img>hunter2.jpg</img>
+		</image>
+		<image>
+			<title>THE ORCS : HUNTER</title>
+			<desc>Wire frames</desc>
+			<thumb>hunter3.jpg</thumb>
+			<img>hunter3.jpg</img>
+		</image>
+	</category>
+	<category name="> THE ORCS : STRIDER / 3DSMAX / NURMS POLY / DEFAULT SCANLINE RENDERER.">
+		<image>
+			<title>THE ORCS : STRIDER</title>
+			<desc>Front view</desc>
+			<thumb>strider0.jpg</thumb>
+			<img>strider0.jpg</img>
+		</image>
+		<image>
+			<title>THE ORCS : STRIDER</title>
+			<desc>Back view</desc>
+			<thumb>strider1.jpg</thumb>
+			<img>strider1.jpg</img>
+		</image>
+		<image>
+			<title>THE ORCS : STRIDER</title>
+			<desc>No mapping</desc>
+			<thumb>strider2.jpg</thumb>
+			<img>strider2.jpg</img>
+		</image>
+		<image>
+			<title>THE ORCS : STRIDER</title>
+			<desc>Wire frames</desc>
+			<thumb>strider3.jpg</thumb>
+			<img>strider3.jpg</img>
+		</image>
+	</category>
+	<category name="> THE MICHELLE in DR / MAYA2008 / POLYGON / SOFTWARE RENDERER.">
+		<image>
+			<title>THE MICHELLE in DR</title>
+			<desc>Front view</desc>
+			<thumb>michelle0.jpg</thumb>
+			<img>michelle0.jpg</img>
+		</image>
+		<image>
+			<title>THE MICHELLE in DR</title>
+			<desc>Working view</desc>
+			<thumb>michelle1.jpg</thumb>
+			<img>michelle1.jpg</img>
+		</image>
+		<image>
+			<title>THE MICHELLE in DR</title>
+			<desc>Scale map</desc>
+			<thumb>michelle2.jpg</thumb>
+			<img>michelle2.jpg</img>
+		</image>
+		<image>
+			<title>THE MICHELLE in DR</title>
+			<desc>Wire frames</desc>
+			<thumb>michelle3.jpg</thumb>
+			<img>michelle3.jpg</img>
+		</image>
+	</category>
+	<category name="> A BABARIAN / 3DSMAX / NURMS POLY & PATCH / FINAL RENDER & DEFAULT SCANLINE RENDERER.">
+		<image>
+			<title>A BABARIAN</title>
+			<desc></desc>
+			<thumb>baba0.jpg</thumb>
+			<img>baba0.jpg</img>
+		</image>
+		<image>
+			<title>A BABARIAN</title>
+			<desc></desc>
+			<thumb>baba1.jpg</thumb>
+			<img>baba1.jpg</img>
+		</image>
+		<image>
+			<title>A BABARIAN</title>
+			<desc></desc>
+			<thumb>baba2.jpg</thumb>
+			<img>baba2.jpg</img>
+		</image>
+		<image>
+			<title>A BABARIAN</title>
+			<desc>Wire frames</desc>
+			<thumb>baba3.jpg</thumb>
+			<img>baba3.jpg</img>
+		</image>
+	</category>
+	<category name="> THE YO-MAN / 3DSMAX / NURMS POLY / DEFAULT SCANLINE RENDERER.">
+		<image>
+			<title>THE YO-MAN</title>
+			<desc></desc>
+			<thumb>yo0.jpg</thumb>
+			<img>yo0.jpg</img>
+		</image>
+		<image>
+			<title>THE YO-MAN</title>
+			<desc></desc>
+			<thumb>yo1.jpg</thumb>
+			<img>yo1.jpg</img>
+		</image>
+		<image>
+			<title>THE YO-MAN</title>
+			<desc>Wire frames1</desc>
+			<thumb>yo2.jpg</thumb>
+			<img>yo2.jpg</img>
+		</image>
+		<image>
+			<title>THE YO-MAN</title>
+			<desc>Wire frames2</desc>
+			<thumb>yo3.jpg</thumb>
+			<img>yo3.jpg</img>
+		</image>
+	</category>
+	<category name="> A MAN / 3DSMAX / PATCH / MENTAL RAY & DEFAULT SCANLINE RENDERER.">
+		<image>
+			<title>A MAN</title>
+			<desc></desc>
+			<thumb>man0.jpg</thumb>
+			<img>man0.jpg</img>
+		</image>
+		<image>
+			<title>A MAN</title>
+			<desc>Wire frames</desc>
+			<thumb>man1.jpg</thumb>
+			<img>man1.jpg</img>
+		</image>
+	</category>
+</gallery>
